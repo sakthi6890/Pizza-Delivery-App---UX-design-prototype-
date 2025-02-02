@@ -1,5 +1,5 @@
 ### Pizza-Delivery-App---UX-design-prototype-
 
-![Screenshot 2025-02-02 234142](https://github.com/user-attachments/assets/b7647601-684f-468c-94d7-fa0c33514082)
-![Screenshot 2025-02-02 234135](https://github.com/user-attachments/assets/b4414e98-e1b7-45ec-89d1-bb5ca43c67de)
-![Screenshot 2025-02-02 234127](https://github.com/user-attachments/assets/fb3a50c1-a8b2-4e40-9755-80bdfec91d5b)
+![Screenshot 2025-02-02 234127](https://github.com/user-attachments/assets/0d222192-b720-4904-8bb9-1d43ace277d6)
+![Screenshot 2025-02-02 234135](https://github.com/user-attachments/assets/abe16ec8-69cb-48f9-b4f6-7c76f39cc8c5)
+![Screenshot 2025-02-02 234142](https://github.com/user-attachments/assets/adc9bbc1-ae9c-4cee-96da-38eeb8ab3ad8)
